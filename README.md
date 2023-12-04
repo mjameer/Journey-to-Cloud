@@ -3,11 +3,13 @@
 In the fast-evolving landscape of technology, organizations are constantly challenged to modernize their legacy applications and embrace cloud-native architectures. This blog narrates the journey of transforming multiple Java applications, initially deployed in the cloud, through various stages of evolution – from Mavenization to migration to Liberty, containerization, and finally deployment in Azure Kubernetes Service (AKS). While reflecting on the accomplishments, the narrative also highlights key learnings and pivotal decisions made throughout the process.
 
 
-This particular GIF really summarizes how our work was for the last 6 months. I can call it a day and say the presentation is done because this is really what you'll be doing as well if you're planning to move into containers, and eventually into Kubernetes
+This particular GIF summarizes how our work was for the last 6 months. I can call it a day and say the presentation is done because this is really what you'll be doing as well if you're planning to move into containers, and eventually into Kubernetes
 
 
 ![gromit-speedy](https://github.com/mjameer/Jorney-to-Cloud/assets/11364104/6ee59fe2-2dae-4cb9-87d3-7b017623b679)
 
+
+Following are the phases we went through during our cloud migration strategy 
 
 ### The Mavenization Phase:
 
@@ -21,17 +23,17 @@ Following Mavenization, the team migrated applications to Liberty, an open-sourc
 
 The next step for our team was to embark on a significant project - Dockerization. Docker containers provide a standardized unit for packaging and shipping applications, ensuring consistency across different environments. This initiative required meticulous evaluation and adoption of Docker within the existing infrastructure, a process that involved both technical challenges and gaining developer buy-in.
 
-### Container Orchestration via Kuberneties
+### Container Orchestration via Kubernetes
 
 With Docker containers in place, the focus shifted to container orchestration. The team recognized the need for a robust orchestration system to manage containers efficiently. Kubernetes emerged as the chosen technology, providing scalability, integration capabilities, and a thriving community.
 
 ### Externalize configurations
 
-With inroduction of k8s, app team were able to externalize the app configurations, which provided us more secure mechanism to store and retrive credientials and other critical data
+With the introduction of k8s, the app team was able to externalize the app configurations, which provided us a more secure mechanism to store and retrieve credentials and other critical data
 
 
 ### Database Migration Motivation:
-In this cloud journey process, we migrated some of the applications DB from MsSQL to Progress as Postgress provided no lisence cost when compared to MsSQL which costs about 800/per month. This cost-effective move presented an opportunity to optimize resources and allocate budgets more efficiently.
+In this cloud journey process, we migrated some of the applications DB from MsSQL to Progress as Postgres provided no license cost when compared to MsSQL which costs about 800/per month. This cost-effective move presented an opportunity to optimize resources and allocate budgets more efficiently.
 
 ### Unforeseen Challenges:
 
@@ -54,4 +56,4 @@ This experience highlights the delicate balance organizations must strike betwee
 
 In conclusion, the legacy applications' journey to the cloud showcases a meticulous process of modernization, from Mavenization to Dockerization, and finally, the adoption of Kubernetes for container orchestration.
 
-Looking back in retrospect, one thing we wish that we could have done differently once you seen how it happened end to end. So one of the things we should have done early on is actually the evaluation phase with proper POCs and the results of that. So the decision-making would have been even clearer and better. And that took some time for us, so that is something I would consider in any of such next phase of migration. 
+Looking back, one thing I wish that we could have done differently once we saw how it happened end to end is we should have done early on the evaluation phase with proper POCs and the results of that. So the decision-making would have been even clearer and better. That took some time for us, so that is something I would consider in any of such next phases of migration. 
