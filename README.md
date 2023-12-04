@@ -29,8 +29,9 @@ With Docker containers in place, the focus shifted to container orchestration. T
 
 ### Externalize configurations
 
-With the introduction of k8s, the app team was able to externalize the app configurations, which provided us a more secure mechanism to store and retrieve credentials and other critical data
+With the introduction of k8s, the app team was able to externalize the app configurations, which provided us with a more secure mechanism to store and retrieve credentials and other critical data
 
+![ezgif com-crop](https://github.com/mjameer/Jorney-to-Cloud/assets/11364104/4ad37867-c4fc-4cd5-88ec-de47a5b7cb14)
 
 ### Database Migration Motivation:
 In this cloud journey process, we migrated some of the applications DB from MsSQL to Progress as Postgres provided no license cost when compared to MsSQL which costs about 800/per month. This cost-effective move presented an opportunity to optimize resources and allocate budgets more efficiently.
