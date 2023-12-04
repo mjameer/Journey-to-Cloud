@@ -5,9 +5,7 @@ In the fast-evolving landscape of technology, organizations are constantly chall
 
 This particular GIF summarizes how our work was for the last 6 months. I can call it a day and say the blog is done because this is really what you'll be doing as well if you're planning to move into containers, and eventually into Kubernetes
 
-
-![gromit-speedy](https://github.com/mjameer/Jorney-to-Cloud/assets/11364104/6ee59fe2-2dae-4cb9-87d3-7b017623b679)
-
+![PbB](https://github.com/mjameer/Jorney-to-Cloud/assets/11364104/ca3c7e1b-a0ae-4048-82b7-541425ff319f)
 
 Following are the phases we went through during our cloud migration strategy 
 
