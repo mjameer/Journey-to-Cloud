@@ -59,7 +59,7 @@ Looking back, one thing I wish that we could have done differently once we saw h
 
 ### The End
 
-![image](https://github.com/mjameer/Jorney-to-Cloud/assets/11364104/ee63ea18-53e0-45fa-b710-dcdba9558111)
+![image](https://github.com/mjameer/Jorney-to-Cloud/assets/11364104/d5b02f2e-008b-4a28-9ff6-732b7b1ec031)
 
 
 
