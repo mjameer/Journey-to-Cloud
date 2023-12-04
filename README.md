@@ -17,6 +17,8 @@ The journey began with the Mavenization of existing applications, a crucial step
 
 Following Mavenization, the team migrated applications to Liberty, an open-source runtime for building, deploying, and managing Java applications. Liberty's lightweight nature and support for microservices architecture made it an ideal choice for the evolving landscape.
 
+More on [Liberty migration here](https://github.com/mjameer/LibertyMigrationSteps/blob/main/README.md)
+
 ### Containerization Project - Dockerization:
 
 The next step for our team was to embark on a significant project - Dockerization. Docker containers provide a standardized unit for packaging and shipping applications, ensuring consistency across different environments. This initiative required meticulous evaluation and adoption of Docker within the existing infrastructure, a process that involved both technical challenges and gaining developer buy-in.
