@@ -57,3 +57,10 @@ This experience highlights the delicate balance organizations must strike betwee
 In conclusion, the legacy applications' journey to the cloud showcases a meticulous process of modernization, from Mavenization to Dockerization, and finally, the adoption of Kubernetes for container orchestration.
 
 Looking back, one thing I wish that we could have done differently once we saw how it happened end to end is we should have done early on the evaluation phase with proper POCs and the results of that. So the decision-making would have been even clearer and better. That took some time for us, so that is something I would consider in any of such next phases of migration. 
+
+### The End
+
+![image](https://github.com/mjameer/Jorney-to-Cloud/assets/11364104/ee63ea18-53e0-45fa-b710-dcdba9558111)
+
+
+
