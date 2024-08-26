@@ -11,9 +11,9 @@ This particular GIF summarizes how our work was for the last 6 months. I can cal
 
 ![cloud-migration-slide2best](https://github.com/user-attachments/assets/05e27295-14d5-42c2-b9e3-dab3e6fdc699)
 
-Following are the phases I went through during our cloud migration strategy 
+Following are the phases I went through during our Application cloud migration strategy 
 
-### The Mavenization Phase:
+### Mavenization Phase:
 
 The journey began with the Mavenization of existing applications, a crucial step towards standardizing project structures and dependencies. This initiative aimed to streamline the build process, enhance project maintainability, and pave the way for subsequent cloud-based transformations.
 
