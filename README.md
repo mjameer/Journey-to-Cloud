@@ -7,7 +7,11 @@ This particular GIF summarizes how our work was for the last 6 months. I can cal
 
 ![PbB](https://github.com/mjameer/Jorney-to-Cloud/assets/11364104/ca3c7e1b-a0ae-4048-82b7-541425ff319f)
 
-Following are the phases we went through during our cloud migration strategy 
+### Typical Phases 
+
+![cloud-migration-slide2best](https://github.com/user-attachments/assets/05e27295-14d5-42c2-b9e3-dab3e6fdc699)
+
+Following are the phases I went through during our cloud migration strategy 
 
 ### The Mavenization Phase:
 
