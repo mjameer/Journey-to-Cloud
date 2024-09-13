@@ -53,15 +53,22 @@ To address the performance issues arising from the network latency, the team piv
 
 The decision to adopt Internal Openshift was not part of the initial plan but arose as a pragmatic response to unforeseen challenges. Midway through the migration process, the team demonstrated flexibility and adaptability, prioritizing the user experience and overall application performance.
 
+#### Advantages and Opportunity with Openshift 
+
+Since openshift is native to Linux ecosystem, we have some advantages like integrating the system with Venafi for automatic cert renewal, the same cant be done in AKS or EKS
+
+![image](https://github.com/user-attachments/assets/cbfc8430-c617-4739-ab48-5e94c969abc7)
+
+
 ### Balancing Cost and Performance:
 
 This experience highlights the delicate balance organizations must strike between cost considerations and performance optimization during complex migrations. While cost-effective solutions like Postgres can be advantageous, addressing the subsequent challenges in network performance becomes equally crucial to ensure a seamless user experience.
 
 ### Conclusion 
 
-In conclusion, the legacy applications' journey to the cloud showcases a meticulous process of modernization, from Mavenization to Dockerization, and finally, the adoption of Kubernetes for container orchestration.
+In conclusion, the legacy applications' journey to the cloud showcases a meticulous modernization process, from Mavenization to Dockerization, and finally, the adoption of Kubernetes for container orchestration.
 
-Looking back, one thing I wish that we could have done differently once we saw how it happened end to end is we should have done early on the evaluation phase with proper POCs and the results of that. So the decision-making would have been even clearer and better. That took some time for us, so that is something I would consider in any of such next phases of migration. 
+Looking back, one thing we could have done differently once we saw how it happened end to end is we should have done the evaluation phase early on with proper POCs and the results of that. So the decision-making would have been even clearer and better. That took some time for us, so that is something I would consider in any of such next phases of migration. 
 
 ### The End
 
