@@ -1,4 +1,4 @@
-### Jorney-to-Cloud
+### Journey-to-Cloud
 
 In the fast-evolving landscape of technology, organizations are constantly challenged to modernize their legacy applications and embrace cloud-native architectures. This blog narrates the journey of transforming multiple Java applications, initially deployed in the cloud, through various stages of evolution – from Mavenization to migration to Liberty, containerization, and finally deployment in Azure Kubernetes Service (AKS). While reflecting on the accomplishments, the narrative also highlights key learnings and pivotal decisions made throughout the process.
 
